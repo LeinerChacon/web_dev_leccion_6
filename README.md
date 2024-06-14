@@ -1,5 +1,3 @@
-libro de recetasgit :
-
-Receta : Helados
+# Libro de recetas
 
 
